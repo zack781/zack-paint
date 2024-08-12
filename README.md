@@ -16,3 +16,4 @@ Sprint 2:
 - Resizble Textbox
 - Different font size
 - Different font color
+- Undo
